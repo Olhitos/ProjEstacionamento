@@ -3,7 +3,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Main {
-    // Algumas implementações possíveis
+    // Algumas implementações possíveis:
     // TODO: relatorio de ocupacao
     // TODO: permitir consulta de entrada e saida de veiculos
     // TODO: permitir consulta e atualizacao dos dados dos clientes
